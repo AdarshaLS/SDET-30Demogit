@@ -9,6 +9,7 @@ public class Demo {
 	{
 		System.out.println("User1");
 		
+	
 		
 		
 		System.out.println("User4");
@@ -16,21 +17,5 @@ public class Demo {
 		System.out.println("My name is ");
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-	
-	
-	
 	}
-
 }
